@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946213048204",
+    "firebase_url": "https://usuarios-f1e41.firebaseio.com",
+    "project_id": "usuarios-f1e41",
+    "storage_bucket": "usuarios-f1e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946213048204:android:f74fa4f139a346e5",
+        "android_client_info": {
+          "package_name": "com.isil.usuarios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946213048204-a9gv3cpn8i36p5bbefdp90h1upvavg6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isil.usuarios",
+            "certificate_hash": "ffa9a808b8c92bde5238c1e3859e9a12db9f374b"
+          }
+        },
+        {
+          "client_id": "946213048204-1ank4bm6e6amp9vaakqgg2is9kvbdsje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ynq6D9jTLwr9p-QCSX9C6ec9LEuGOzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946213048204-1ank4bm6e6amp9vaakqgg2is9kvbdsje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
